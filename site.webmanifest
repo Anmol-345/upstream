@@ -1,0 +1,13 @@
+{
+  "name": "LIVE",
+  "short_name": "LIVE",
+  "description": "Stream to Earn, and watch everything live. Live sport and creators in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070F",
+  "theme_color": "#08070F",
+  "icons": [
+    { "src": "/live-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/live-icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
